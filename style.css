@@ -1,4 +1,9 @@
-head{
+header{
     background-color: purple;
     text-align: center;
+}
+
+header img{
+    border-radius: 150px;
+    border: 10px solid rgb(150, 33, 49);
 }
