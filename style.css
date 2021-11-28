@@ -12,7 +12,7 @@ html {
 
 body {
     background: #151D21;
-    background-image: url('../images/bg.png');
+    background-image: url('../bg.png');
     background-size: 100%;
     background-repeat: no-repeat;
     color: white;
@@ -28,7 +28,8 @@ a:hover {
 }
 
 header .logo a {
-	background-image: url("https://i.imgur.com/qmXKZqJ.png");
+	background-image: url("../bun.png");
+	background-size: 90px;
 	background-repeat: no-repeat;
 	display: inline-block;
 	height: 100px;
